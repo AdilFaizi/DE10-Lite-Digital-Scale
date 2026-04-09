@@ -7,7 +7,8 @@ Utilizing the pin description, I developed a verilog code module based on javago
 <img width="731" height="795" alt="image" src="https://github.com/user-attachments/assets/a8383ef8-5120-46db-bb95-1ebea9b1f9ad" />
 <img width="659" height="303" alt="image" src="https://github.com/user-attachments/assets/4a60673d-90c9-4918-8e88-24820266fb6d" />
 
-Using the Seven-Segment Display, Key Buttons, and Switches to demonstrated the current weight of the object, in concurrency with a history saving-feature to present past data. 
+Using the Seven-Segment Display, Key Buttons, and Switches to demonstrated the current weight of the object, in concurrency with a history 
+saving-feature to present past data. 
 <img width="659" height="475" alt="image" src="https://github.com/user-attachments/assets/72936c90-d702-4de8-81bf-9fa1e6ecb54e" />
 
 GPIO Pins 1,3 for SCK and DT connection. GPIO Pins 29, 30 for VCC and GND.
